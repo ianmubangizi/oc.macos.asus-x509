@@ -1,0 +1,17 @@
+# Remove random files 
+*._*
+
+# Don't commit Files
+Resources/*
+Bootstrap/*
+Drivers/*
+Kexts/*
+
+# Should not commit DSDT, it based on my laptop
+DSDT.*
+
+# Should not commit dsls
+*.dsl
+
+# EFI files
+*.efi
