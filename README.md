@@ -7,4 +7,4 @@
 - Trackpad
 - Intel WiFi
 - Intel Bluetooth
-- Intel UHD 630 Graphics
+- Intel UHD 620 Graphics
